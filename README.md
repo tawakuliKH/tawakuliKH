@@ -1,5 +1,6 @@
 <h1>👋 Hi There, I am Khadim (Morteza) Tawakuli</h1>
-(https://user-images.githubusercontent.com/57441621/225251946-55421526-f40c-4741-8164-95b0266f95b3.png)
+
+![Full-Stack Developer with interest in React and Javascript Frameworks, I play football and go to gym in spare time, Availible for new oppertunities](https://user-images.githubusercontent.com/57441621/225252472-9bf0977f-ca52-4463-9529-839953289fd5.png)
 
 
 - :yellow_heart: I am a profissional fullstack developer who enjoy coding.
