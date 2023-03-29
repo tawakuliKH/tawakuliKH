@@ -20,7 +20,6 @@
 
 
 ## 🤝 Connect with me
-
 <div>
   <div>
     &ensp;&ensp;&ensp;&ensp;&ensp; <a  href="https://www.linkedin.com/in/morteza-tawakuli-904818170" target="_blank">
